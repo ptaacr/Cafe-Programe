@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Drink
+comment1.params=id\ name\ price\ amount
+comment1.target=Drink(int,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=void\ getInfo()
+numComments=3
